@@ -32,6 +32,8 @@ HAI 1.2
 
 KTHXBYE
 
+// comment
+
 VALUE1
 VALUE2
 Choose Operation? + - * /

@@ -1,4 +1,4 @@
-HAI 1.2.6
+HAI 1.2.6.7
 
    I HAS A V1
    I HAS A V2

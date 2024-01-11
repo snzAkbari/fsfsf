@@ -1,6 +1,6 @@
 HAI 1.2.6.7
 
-   I HAS A V1, V2 , V3
+   I HAS A V1, V2
    I HAS A V2
    I HAS A CHOICE
    VISIBLE "VALUE1"

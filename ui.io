@@ -7,7 +7,7 @@ HAI 1.2.6
    GIMMEH V1
    VISIBLE "VALUE2"
    GIMMEH V2VISIBLE "Choose Operation? + - * /"
-   GIMMEH CHOICE CHOICE, WTF?
+   GIMMEH CHOICE CHOICE, WF?
       OMG "+"
       VISIBLE SUM OF V1 AN V2
       

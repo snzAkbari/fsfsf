@@ -3,7 +3,7 @@ HAI 1.2.6
    I HAS A V1
    I HAS A V2
    I HAS A CHOC
-   VISIBLE "VALU1
+   VISIBLE "VAL1
    GIMMEH V1
    VISIBLE "VALUE2"
    GIMMEH V2VISIBLE "Choose Operation? + - * /"

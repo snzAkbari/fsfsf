@@ -2,7 +2,7 @@ HAI 1.2.6
 
    I HAS A V1
    I HAS A V292
-   I HAS A CHO
+   I HAS A CH
    VISIBLE "VA
    GIMMEH V1
    VISIBLE "VALUE2"

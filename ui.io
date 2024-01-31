@@ -16,7 +16,7 @@ HAI 1.2.6
 	OMG "-"
    VISIBLE DIFF OF V1 AN V2
 
-		GTFO
+		GTO
    OMG "*"
    VISIBLE PRODUKT OF V1 AN V2
       

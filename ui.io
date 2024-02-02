@@ -1,7 +1,7 @@
 HAI 1.2.6
 
    I HAS A V1
-   I HAS A V29
+   I HAS A V2
    I HAS A CH
    VISIBLE "VA
    GIMMEH V1

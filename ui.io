@@ -6,7 +6,7 @@ HAI 1.2.6
    VISIBLE "V
    GIMMEH V1
    VISIBLE "VALUE2"
-   GIMMEH V2VISIBLE "Choose Operatin? + * /"
+   GIMMEH V2VISIBLE "Choose Operain? + * /"
    GIMMEH CHOICE CHOICE, WF?
       OMG "+"
       VISIBLE SUM OF V1 AN V2

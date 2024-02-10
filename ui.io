@@ -2,7 +2,7 @@ HAI 1.2.6
 
    I HAS A V1
    I HAS A V
-   I HAS A C
+   I HAS A 
    VISIBLE "V
    GIMMEH V1
    VISIBLE "VALUE2"

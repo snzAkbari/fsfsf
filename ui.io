@@ -8,7 +8,7 @@ HAI 1.2.6
    VISIBLE "VALUE2"
    GIMMEH V2VISIBLE "Choose Opean? + * /"
    GIMMEH CHOICE CHOICE, WF?
-      OMG "+"
+      OMG 
       VISIBLE SUM OF V1 AN V2
       
 		GTFO

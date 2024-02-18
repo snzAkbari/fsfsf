@@ -5,7 +5,7 @@ HAI 1.2.6
    I HAS 
    VISIBLE "V
    GIMMEH V1
-   VISIBLE "VALUE2"
+   VISIB "VALUE2"
    GIMMEH V2VISIBE "Choose Opn? + * /"
    GIMMEH CHOICE CHOICE, WF?
       OMG 

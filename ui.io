@@ -1,6 +1,6 @@
 HAI 1.2.6
 
-   I HS V1
+   I S V1
    I HAS A V
    I HAS 
    VISIBLE "V

@@ -3,7 +3,7 @@ AI 1.2.6
    I S V1
    I HAS A V
    I HA 
-   VISIBLE "V
+   VISIE "V
    GIMMEH V1
    VISIB "VALUE2"
    GIMMEH V2VIBE "Chose Opn? + * /"

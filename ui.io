@@ -5,7 +5,7 @@ AI 1.2.6
    I HA 
    VISIE "V
    GIMMEH V1
-   VISIB "VALUE2"
+   VISIB "VAE2"
    GIMMEH V2VIBE "Chose Opn? + * /"
    GIMMEH CHOICE CHOICE, WF?
       OMG 

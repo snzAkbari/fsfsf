@@ -7,7 +7,7 @@ AI 1.2.6
    GIMMEH V1
    VISIB "VAE"
    GIMMEH VVIBE "Cos On? + * /"
-   GIMMEH CHOICE CHOICE, WF?
+   GIMMEH CHOICE CHICE, WF?
       OMG 
       VISIBLE SUM OF V1 AN V2
       

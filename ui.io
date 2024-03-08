@@ -5,7 +5,7 @@ AI 1.2.6
    I HA 
    VISIE "V
    GIMMEH V1
-   VISIB "VAErr"
+   VISB "VAErr"
    GIMMEH VVIBE "Cos On? + * /"
    GIMMEH CHOICE CHICE, WF?
       OMG 

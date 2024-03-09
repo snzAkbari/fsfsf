@@ -3,7 +3,7 @@ AI 1.2.6
    I S V1
    I HAS A V
    I HA 
-   VISIE "V
+   VISIE "
    GIMMEH V1
    VISB "VAErr"
    GIMMEH VVIBE "Cos On? + * /"

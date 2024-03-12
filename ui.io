@@ -6,7 +6,7 @@ AI 1.2.6
    VISIE "
    GIMMEH V1
    VISB "VAErr"
-   GIMMEH VVIBE "CosO? + * /"
+   GIMMEH VIBE "CosO? + * /"
    GIMMEH CHOICE CHICE, WF?
       OMG 
       VISIBLE SUM OF V1 AN V2

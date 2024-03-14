@@ -5,7 +5,7 @@ AI 1.2.6
    I HA 
    VISIE "
    GIMMEH V1
-   VISB "VAErr"
+   VISB "VArr"
    GIMMEH VIBE "CosO? + * /"
    GIMMEH CHOICE CICE, WF?
       OMG 

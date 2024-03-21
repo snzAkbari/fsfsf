@@ -4,7 +4,7 @@ AI 1.2.6
    I HAS A V
    I HA 
    VISE "
-   GIMMEH V
+   GIEH V
    VISB "VArr"
    GIMMEH V "CO? + * /"
    GIMMEH CHOICE CICE, WF?

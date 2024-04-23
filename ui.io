@@ -5,7 +5,7 @@ AI 1.2.6
    I HA 
    VISE "
    GIEH V
-   VISB "VArr"
+   VISB "VAr"
    GIMMEH V "CO? + * /"
    GIMMEH CHOICE CIE, WF?
       OMG 

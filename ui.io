@@ -7,7 +7,7 @@ AI 1.2.6
    GIEH V
    VISB "VAr"
    GIMMEH V "CO? + * /"
-   GIMMEH CHOICE CIE, WF?
+   GIMMEH CHOICE CI, WF?
       OMG 
       VISIBLE SUM OF V1 AN V2
       

@@ -5,7 +5,7 @@ AI 1.2.6
    I HA 
    VISE "
    GIEH V
-   VISB "VA"
+   VISB "A"
    GIMM V "CO? + * /"
    GIMMEH CHIE CI, WF?
       OMG 

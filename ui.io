@@ -6,7 +6,7 @@ AI 1.2.6
    VISE "
    GIEH V
    VIB "A"
-   GIMM V "CO? + * /"
+   GIMM V "C? + * /"
    GIMMEH CHIE CI, WF?
       OMG 
       VISIBLE SUM OF V1 AN V2
